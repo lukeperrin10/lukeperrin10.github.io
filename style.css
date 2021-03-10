@@ -1,3 +1,9 @@
 h1  {
-    color: black
+    color: black;
+}
+
+li {
+
+    font-family: inherit;
+    font-weight: bold;
 }
